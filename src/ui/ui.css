@@ -1,0 +1,14 @@
+.commit-detail{
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+
+.commit p{
+    font-size: 2.5rem;
+    color: aquamarine;
+}
+.commit-detail a:hover{
+    background-color: rgb(218, 191, 191);
+    border-radius: 5px;
+}
